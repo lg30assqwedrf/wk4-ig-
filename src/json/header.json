@@ -1,0 +1,62 @@
+
+{
+    "HomePage":
+        {
+            "HeaderLeftUrl":"https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/camera.png?raw=true",
+            "HeaderMid":"https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/1200px-Instagram_logo.svg.png?raw=true",
+            "HeaderRightUrl":"https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/send.png?raw=true",
+            "bottomImage1":"https://github.com/lg30assqwedrf/image-wk4/blob/master/home.png?raw=true",
+            "bottomImage2":"https://github.com/lg30assqwedrf/image-wk4/blob/master/search.png?raw=true",
+            "bottomImage3":"https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/like.png?raw=true",
+            "bottomImage4":"https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/baseline_account_circle_black_18dp.png?raw=true"
+        },
+ 
+    "MessagePage":
+        {
+            "HeaderLeftUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VisualEditor_-_Icon_-_Move-rtl.svg/2000px-VisualEditor_-_Icon_-_Move-rtl.svg.png",
+            "HeaderRightUrl":"https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/edit%20(1).png?raw=true",
+            "bottomImage":"https://github.com/yoruki1104/wk4-ig/blob/master/img/message/btn_camera.png?raw=true",
+            "HeaderMidUrl":"https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/video-camera.png?raw=true"
+        },
+
+        "Friends": 
+        {
+        "name": "         usopp_fuckface",
+        "camera": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/APPWK4/10-67720.jpeg?raw=true",
+        "chat":"目前在線上"
+        },
+
+        "Friends2": 
+        {
+        "name": "              rrangnar_lothbrokk",
+        "camera": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/APPWK4/3181141_233425002_2.jpg?raw=true",
+        "chat":"              那我讓她愛上我的.."
+        },
+
+        "Friends3": 
+        {
+         "name": "              red_the_best_color",
+         "camera": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/camera.png?raw=true",
+         "thumbnail_image": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/APPWK4/640.jpg?raw=true",
+         "chat":"3則新訊息"
+        },
+
+        "Friends4": 
+        {
+        "name": "       ray120620220",
+        "camera": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/APPWK4/%E4%B8%8B%E8%BC%89%20(1).jpg?raw=true",
+        "chat":"         13分鐘前在線上"
+        },
+
+        "Friends5": 
+        {
+        "name": "   donotaskplz",
+        "camera": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/lg30assqwedrf/image-wk4/blob/master/src/APPWK4/%E4%B8%8B%E8%BC%89.jpg?raw=true",
+        "chat":"87777777"
+        }
+            
+}
