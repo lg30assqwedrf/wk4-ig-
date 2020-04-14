@@ -88,7 +88,7 @@ const AlbumScreen = ({ navigation }) => {
         flexDirection:"row",
         justifyContent:"flex-start",
         justifyContent:"space-between",
-        height:65,
+        height:53,
         backgroundColor:'#fafafa',
       }
   });
